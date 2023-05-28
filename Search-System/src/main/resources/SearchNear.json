@@ -1,0 +1,11 @@
+{
+  "baseURL": "https://api.opentripmap.com/0.1/ru/places/radius",
+  "params":
+  {
+    "format": "json",
+    "apikey": "<INSERT_YOUR_KEY>",
+    "radius": "10000"
+  },
+  "latKeyName": "lat",
+  "lngKeyName": "lon"
+}

@@ -1,0 +1,10 @@
+{
+  "baseURL": "https://graphhopper.com/api/1/geocode",
+  "params":
+    {
+      "locale": "en",
+      "key": "<INSERT_YOUR_KEY>"
+    },
+  "locationNameParam": "q",
+  "resultsKeyName": "hits"
+}

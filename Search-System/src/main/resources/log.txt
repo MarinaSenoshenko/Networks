@@ -1,0 +1,228 @@
+2022-11-02 17:44:10 INFO  - Starting app...
+2022-11-02 17:44:14 INFO  - class view.SearchView: search: moscow
+2022-11-02 17:44:15 INFO  - class view.SearchView: show locations...
+2022-11-02 17:44:15 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:44:15 INFO  - class view.LocationView: city: no info
+2022-11-02 17:44:15 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:44:15 INFO  - class view.LocationView: country: United States
+2022-11-02 17:44:15 INFO  - class view.LocationView: city: no info
+2022-11-02 17:44:15 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:44:15 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:44:15 INFO  - class view.LocationView: city: no info
+2022-11-02 17:44:15 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:44:15 INFO  - class view.LocationView: country: United States
+2022-11-02 17:44:15 INFO  - class view.LocationView: city: no info
+2022-11-02 17:44:15 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:44:15 INFO  - class view.LocationView: country: United States
+2022-11-02 17:44:15 INFO  - class view.LocationView: city: no info
+2022-11-02 17:44:15 INFO  - class view.LocationView: name: Moscow Township
+2022-11-02 17:44:17 INFO  - class view.SearchView: show places...
+2022-11-02 17:44:17 INFO  - class view.NearView: Красное крыльцо for xid R8011729 has description: Кра́сное крыльцо́ находится в Московском Кремле у южной стороны Грановитой палаты. Название закрепилось с середины XVII века.Красное крыльцо представляет собой парадный вход в Святые сени и в зал второго этажа Грановитой палаты. Наружное открытое крыльцо ориентировано на Соборную площадь. Крыльцо начинается двумя белокаменными арками, установленными на невысокий ступенчатый цоколь. Они сходятся под прямым углом и декорированы навершиями с фигурами львов. От арок на второй этаж ведёт широкая трёхмаршевая лестница.
+2022-11-02 17:44:17 INFO  - class view.NearView: Архангельский собор for xid R1359243 has description: Собо́р свято́го Архистрати́га Михаи́ла в Кремле́ (Арха́нгельский собо́р) — православный храм, расположенный на Соборной площади Московского Кремля. Был построен в 1508 году по проекту архитектора Алевиза Нового. Входит в Государственный историко-культурный музей-заповедник «Московский Кремль».
+2022-11-02 17:44:17 INFO  - class view.NearView: Благовещенский собор for xid R1359251 has description: Благове́щенский собо́р — православный храм Московского Кремля в честь Благовещения Пресвятой Богородицы, расположенный на Соборной площади в Москве. Был построен в 1489 году под руководством псковских мастеров Кривцова и Мышкина.
+2022-11-02 17:44:17 INFO  - class view.NearView: Грановитая палата for xid R7679578 has description: Гранови́тая пала́та — памятник архитектуры в Московском Кремле, одно из старейших гражданских зданий Москвы. Построена в 1487—1491 годах по указу Ивана III итальянскими архитекторами Марко Руффо и Пьетро Антонио Солари. Постройка использовалась для проведения торжественных обедов, заседаний и церемониальных приёмов при венчании на царство.
+2022-11-02 17:44:17 INFO  - class view.NearView: Церковь Двенадцати Апостолов for xid R1359249 has description: Патриа́ршие пала́ты и це́рковь Двена́дцати апо́столов — комплекс зданий на территории Московского Кремля, расположенный к северу от Успенского собора и колокольни Ивана Великого. Построены в 1635—1656 годах русскими мастерами Антипом Константиновым и Баженом Огурцовым по заказу патриарха Никона. Пятиглавый собор Двенадцати Апостолов был сооружён на месте старого храма и части двора Бориса Годунова.
+2022-11-02 17:44:17 INFO  - class view.NearView: Церковь Иоанна Лествичника с колокольней Ивана Великого for xid R1359281 has description: Колоко́льня Ива́на Вели́кого (вариант названия — Ива́н Вели́кий; также иногда именуется по названию основного храма — це́рковь Иоа́нна Ле́ствичника) — храм-колокольня в составе архитектурного ансамбля Соборной площади Московского Кремля. Построена в 1505—1509 годах по проекту итальянского архитектора Бона Фрязина, в период до 1815 года неоднократно достраивалась, расширялась и перестраивалась. В основании заложен храм святого преподобного Иоанна Лествичника.
+2022-11-02 17:44:25 INFO  - class view.SearchView: show places...
+2022-11-02 17:44:25 INFO  - class view.NearView: Almon Asbury Lieuallen House for xid Q4733872 has description: The Almon Asbury Lieuallen House was added to the National Register of Historic Places in 1978. Located at 101 S. Almon St. in Moscow, Idaho in Latah County the house was built in 1884. The structure has a mansard roof and two-story bays on either side of the entrance. The structure originally had a smaller covered porch, and the bays were more visible than at present. A small railed balcony atop the porch was accessible by a door on the second floor. That door has been replaced by a window, and the porch expanded to cover the entire east side of the facade. Additional dormer windows have been added on the third floor to provide additional lighting and ventilation for the top floor. The structure has always been used as a residence, first as a family home, then as apartments. It is currently used as multi-family apartments.
+2022-11-02 17:44:25 INFO  - class view.NearView: Skattaboe Block for xid Q55887888 has description: The Skattaboe Block is a historic building in Moscow, Idaho. It was built by Taylor & Lauder for the Moscow Telephone and Telegraph Company in 1892. It was owned by the Inland Telephone Company from 1925 to 1952, when it was purchased by the General Telephone Company.The building was designed in the Romanesque Revival architectural style. Due to a fire in 1966 the building was renovated in 1978, but the original design of the building has been preserved. It has been listed on the National Register of Historic Places since May 22, 1978.
+2022-11-02 17:44:25 INFO  - class view.NearView: McConnell–McGuire Building for xid Q55887900 has description: The McConnell–McGuire Building is a historic building in Moscow, Idaho. It was built in 1891 for the McConnell-McGuire department store. One of its founders, William J. McConnell, served as the third governor of Idaho from 1893 to 1897.The building was designed by architects W. J. Lewis and M. D. Ogilbee. It has been listed on the National Register of Historic Places since February 7, 1978.
+2022-11-02 17:44:25 INFO  - class view.NearView: Moscow City Hall for xid Q6915476 has description: The City Hall of Moscow, Idaho, formerly known as the Moscow Post Office and Courthouse and Moscow Federal Building, was built 110 years ago in 1911. Its red brick with ivory terracotta trim reflects Late Victorian and Eclectic architecture.
+2022-11-02 17:44:29 INFO  - class view.SearchView: show places...
+2022-11-02 17:44:29 INFO  - class view.NearView: Baker Mountain for xid N358211150 has description: Bukid ang Baker Mountain sa Tinipong Bansa. Nahimutang ni sa kondado sa Somerset County ug estado sa Maine, sa sidlakang bahin sa nasod, 900 km sa amihanan-sidlakan sa Washington, D.C. 240 metros ibabaw sa dagat kahaboga ang nahimutangan sa Baker Mountain, o 80 ka metros sa ibabaw sa naglibot nga tereyn. Mga 0.73 ka kilometro ang gilapdon sa tiilan niini. Baker Mountain nga nahimutang sa lanaw sa Wyman Lake ang ulohan sa nasod.
+2022-11-02 17:44:29 INFO  - class view.NearView: Pierce Hill for xid N358222900 has description: Bukid ang Pierce Hill sa Tinipong Bansa. Nahimutang ni sa kondado sa Somerset County ug estado sa Maine, sa sidlakang bahin sa nasod, 900 km sa amihanan-sidlakan sa Washington, D.C. 400 metros ibabaw sa dagat kahaboga ang nahimutangan sa Pierce Hill, o 103 ka metros sa ibabaw sa naglibot nga tereyn. Mga 3.3 ka kilometro ang gilapdon sa tiilan niini. Pierce Hill nga nahimutang sa lanaw sa Wyman Lake ang ulohan sa nasod.
+2022-11-02 17:44:29 INFO  - class view.NearView: Bingham Free Meetinghouse for xid Q4914197 has description: The Bingham Free Meetinghouse is a historic church on South Main Street (U.S. 201) in Bingham, Maine. Built in 1835-36, this wood frame structure was the first church to be built north of Caratunk Falls in northwestern Maine. The building is architecturally transitional, exhibiting both Federal and Gothic Revival elements. It was listed on the National Register of Historic Places in 1976.
+2022-11-02 17:44:45 INFO  - class view.SearchView: search: цветной проезд
+2022-11-02 17:44:45 INFO  - class view.SearchView: show locations...
+2022-11-02 17:44:45 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:44:45 INFO  - class view.LocationView: city: Piatikhatki
+2022-11-02 17:44:45 INFO  - class view.LocationView: name: Цветной проезд
+2022-11-02 17:44:45 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:44:45 INFO  - class view.LocationView: city: Volgodonsk
+2022-11-02 17:44:45 INFO  - class view.LocationView: name: Цветной проезд
+2022-11-02 17:44:45 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:44:45 INFO  - class view.LocationView: city: Piatikhatki
+2022-11-02 17:44:45 INFO  - class view.LocationView: name: Цветной проезд
+2022-11-02 17:44:45 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:44:45 INFO  - class view.LocationView: city: Kuybyshev
+2022-11-02 17:44:45 INFO  - class view.LocationView: name: Цветной проезд
+2022-11-02 17:44:45 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:44:45 INFO  - class view.LocationView: city: Агалатовское сельское поселение
+2022-11-02 17:44:45 INFO  - class view.LocationView: name: Цветной проезд
+2022-11-02 17:44:48 INFO  - class view.SearchView: show places...
+2022-11-02 17:44:51 INFO  - class view.SearchView: show places...
+2022-11-02 17:44:52 INFO  - class view.NearView: Дендрарий for xid W87422232 has description: Волгодонский дендрарий (Романовский дендрарий) — дендропарк на западе Волгодонска, единственный степной дендрарий на Дону. Занимает площадь 11 га, был основан в 1966 году Е. П. Скребцом. В открытом и закрытом грунте произрастают 240 видов и форм представителей средиземноморской, европейско-сибирской, китайско-японской и северо-американской флоры. Дендропарк служит научной базой Южного федерального университета.
+2022-11-02 17:44:52 INFO  - class view.NearView: Парк "Победа" for xid R1659985 has description: Парк Победы или парк культуры и отдыха «Победа» (официально — муниципальное автономное учреждение культуры «Парк Победы») — парк культуры и отдыха в городе Волгодонске Ростовской области, расположенный в старой части города.Парк был заложен 8 мая 1965 года в канун празднования 20-й годовщины Победы над нацистской Германией.
+2022-11-02 17:44:56 INFO  - class view.SearchView: show places...
+2022-11-02 17:44:58 ERROR - class controller.actions.SearchWeather: null
+2022-11-02 17:44:58 INFO  - class view.SearchView: show places...
+2022-11-02 17:45:07 ERROR - class controller.actions.SearchWeather: null
+2022-11-02 17:45:08 INFO  - class view.SearchView: search: цваауаукаукаукаукаукаукакуцуйкц
+2022-11-02 17:45:08 INFO  - class view.SearchView: show locations...
+2022-11-02 17:45:08 INFO  - class view.SearchView: no location found
+2022-11-02 17:45:09 ERROR - class controller.actions.SearchWeather: null
+2022-11-02 17:45:11 ERROR - class controller.actions.SearchWeather: null
+2022-11-02 17:47:01 INFO  - Starting app...
+2022-11-02 17:47:09 INFO  - class view.SearchView: search: mferferferferferfer
+2022-11-02 17:47:09 INFO  - class view.SearchView: show locations...
+2022-11-02 17:47:09 INFO  - class view.SearchView: no location found
+2022-11-02 17:47:40 INFO  - Starting app...
+2022-11-02 17:47:45 INFO  - class view.SearchView: search: wefrewfeferefr
+2022-11-02 17:47:46 INFO  - class view.SearchView: show locations...
+2022-11-02 17:47:46 INFO  - class view.SearchView: no location found
+2022-11-02 17:48:07 INFO  - Starting app...
+2022-11-02 17:48:10 INFO  - class view.SearchView: search: sfcvedfcverfv
+2022-11-02 17:48:11 INFO  - class view.SearchView: show locations...
+2022-11-02 17:48:11 INFO  - class view.SearchView: no location found
+2022-11-02 17:48:30 INFO  - Starting app...
+2022-11-02 17:48:38 INFO  - class view.SearchView: search: ferferferferfer
+2022-11-02 17:48:39 INFO  - class view.SearchView: show locations...
+2022-11-02 17:48:39 INFO  - class view.SearchView: no location found
+2022-11-02 17:49:34 INFO  - Starting app...
+2022-11-02 17:49:38 INFO  - class view.SearchView: search: referferferferreferfgr
+2022-11-02 17:49:39 INFO  - class view.SearchView: show locations...
+2022-11-02 17:49:39 INFO  - class view.SearchView: no location found
+2022-11-02 17:50:15 INFO  - Starting app...
+2022-11-02 17:50:21 INFO  - class view.SearchView: search: moscow
+2022-11-02 17:50:22 INFO  - class view.SearchView: show locations...
+2022-11-02 17:50:22 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:50:22 INFO  - class view.LocationView: city: no info
+2022-11-02 17:50:22 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:50:22 INFO  - class view.LocationView: country: United States
+2022-11-02 17:50:22 INFO  - class view.LocationView: city: no info
+2022-11-02 17:50:22 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:50:22 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:50:22 INFO  - class view.LocationView: city: no info
+2022-11-02 17:50:22 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:50:22 INFO  - class view.LocationView: country: United States
+2022-11-02 17:50:22 INFO  - class view.LocationView: city: no info
+2022-11-02 17:50:22 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:50:22 INFO  - class view.LocationView: country: United States
+2022-11-02 17:50:22 INFO  - class view.LocationView: city: no info
+2022-11-02 17:50:22 INFO  - class view.LocationView: name: Moscow Township
+2022-11-02 17:50:24 INFO  - class view.SearchView: show places...
+2022-11-02 17:50:24 INFO  - class view.NearView: Грановитая палата for xid R7679578 has description: Гранови́тая пала́та — памятник архитектуры в Московском Кремле, одно из старейших гражданских зданий Москвы. Построена в 1487—1491 годах по указу Ивана III итальянскими архитекторами Марко Руффо и Пьетро Антонио Солари. Постройка использовалась для проведения торжественных обедов, заседаний и церемониальных приёмов при венчании на царство.
+2022-11-02 17:50:24 INFO  - class view.NearView: Архангельский собор for xid R1359243 has description: Собо́р свято́го Архистрати́га Михаи́ла в Кремле́ (Арха́нгельский собо́р) — православный храм, расположенный на Соборной площади Московского Кремля. Был построен в 1508 году по проекту архитектора Алевиза Нового. Входит в Государственный историко-культурный музей-заповедник «Московский Кремль».
+2022-11-02 17:50:24 INFO  - class view.NearView: Красное крыльцо for xid R8011729 has description: Кра́сное крыльцо́ находится в Московском Кремле у южной стороны Грановитой палаты. Название закрепилось с середины XVII века.Красное крыльцо представляет собой парадный вход в Святые сени и в зал второго этажа Грановитой палаты. Наружное открытое крыльцо ориентировано на Соборную площадь. Крыльцо начинается двумя белокаменными арками, установленными на невысокий ступенчатый цоколь. Они сходятся под прямым углом и декорированы навершиями с фигурами львов. От арок на второй этаж ведёт широкая трёхмаршевая лестница.
+2022-11-02 17:50:24 INFO  - class view.NearView: Благовещенский собор for xid R1359251 has description: Благове́щенский собо́р — православный храм Московского Кремля в честь Благовещения Пресвятой Богородицы, расположенный на Соборной площади в Москве. Был построен в 1489 году под руководством псковских мастеров Кривцова и Мышкина.
+2022-11-02 17:50:24 INFO  - class view.NearView: Церковь Двенадцати Апостолов for xid R1359249 has description: Патриа́ршие пала́ты и це́рковь Двена́дцати апо́столов — комплекс зданий на территории Московского Кремля, расположенный к северу от Успенского собора и колокольни Ивана Великого. Построены в 1635—1656 годах русскими мастерами Антипом Константиновым и Баженом Огурцовым по заказу патриарха Никона. Пятиглавый собор Двенадцати Апостолов был сооружён на месте старого храма и части двора Бориса Годунова.
+2022-11-02 17:50:24 INFO  - class view.NearView: Церковь Иоанна Лествичника с колокольней Ивана Великого for xid R1359281 has description: Колоко́льня Ива́на Вели́кого (вариант названия — Ива́н Вели́кий; также иногда именуется по названию основного храма — це́рковь Иоа́нна Ле́ствичника) — храм-колокольня в составе архитектурного ансамбля Соборной площади Московского Кремля. Построена в 1505—1509 годах по проекту итальянского архитектора Бона Фрязина, в период до 1815 года неоднократно достраивалась, расширялась и перестраивалась. В основании заложен храм святого преподобного Иоанна Лествичника.
+2022-11-02 17:50:56 INFO  - Starting app...
+2022-11-02 17:51:00 INFO  - class view.SearchView: search: moscow
+2022-11-02 17:51:01 INFO  - class view.SearchView: show locations...
+2022-11-02 17:51:01 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:51:01 INFO  - class view.LocationView: city: no info
+2022-11-02 17:51:01 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:51:01 INFO  - class view.LocationView: country: United States
+2022-11-02 17:51:01 INFO  - class view.LocationView: city: no info
+2022-11-02 17:51:01 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:51:01 INFO  - class view.LocationView: country: Russia
+2022-11-02 17:51:01 INFO  - class view.LocationView: city: no info
+2022-11-02 17:51:01 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:51:01 INFO  - class view.LocationView: country: United States
+2022-11-02 17:51:01 INFO  - class view.LocationView: city: no info
+2022-11-02 17:51:01 INFO  - class view.LocationView: name: Moscow
+2022-11-02 17:51:01 INFO  - class view.LocationView: country: United States
+2022-11-02 17:51:01 INFO  - class view.LocationView: city: no info
+2022-11-02 17:51:01 INFO  - class view.LocationView: name: Moscow Township
+2022-11-02 17:51:03 INFO  - class view.SearchView: show places...
+2022-11-02 17:51:03 INFO  - class view.NearView: Благовещенский собор for xid R1359251 has description: Благове́щенский собо́р — православный храм Московского Кремля в честь Благовещения Пресвятой Богородицы, расположенный на Соборной площади в Москве. Был построен в 1489 году под руководством псковских мастеров Кривцова и Мышкина.
+2022-11-02 17:51:03 INFO  - class view.NearView: Красное крыльцо for xid R8011729 has description: Кра́сное крыльцо́ находится в Московском Кремле у южной стороны Грановитой палаты. Название закрепилось с середины XVII века.Красное крыльцо представляет собой парадный вход в Святые сени и в зал второго этажа Грановитой палаты. Наружное открытое крыльцо ориентировано на Соборную площадь. Крыльцо начинается двумя белокаменными арками, установленными на невысокий ступенчатый цоколь. Они сходятся под прямым углом и декорированы навершиями с фигурами львов. От арок на второй этаж ведёт широкая трёхмаршевая лестница.
+2022-11-02 17:51:03 INFO  - class view.NearView: Архангельский собор for xid R1359243 has description: Собо́р свято́го Архистрати́га Михаи́ла в Кремле́ (Арха́нгельский собо́р) — православный храм, расположенный на Соборной площади Московского Кремля. Был построен в 1508 году по проекту архитектора Алевиза Нового. Входит в Государственный историко-культурный музей-заповедник «Московский Кремль».
+2022-11-02 17:51:03 INFO  - class view.NearView: Грановитая палата for xid R7679578 has description: Гранови́тая пала́та — памятник архитектуры в Московском Кремле, одно из старейших гражданских зданий Москвы. Построена в 1487—1491 годах по указу Ивана III итальянскими архитекторами Марко Руффо и Пьетро Антонио Солари. Постройка использовалась для проведения торжественных обедов, заседаний и церемониальных приёмов при венчании на царство.
+2022-11-02 17:51:03 INFO  - class view.NearView: Верхоспасский собор for xid R7679714 has description: Собо́р Спа́са Нерукотво́рного О́браза (Верхоспасский собор, Спас за Золотой решёткой, Спасский собор) — собор Большого Кремлёвского дворца, построенный в 1635—1636 годах мастерами Баженом Огурцовым, Антипом Константиновым, Трефилом Шарутиным и Ларионом Ушаковым. Входит в комплекс домовых церквей русских царей при Теремном дворце. Храм закрыт для свободного посещения, богослужения в нём не совершаются.
+2022-11-02 17:51:03 INFO  - class view.NearView: Успенский собор for xid R3028585 has description: Успе́нский собо́р — православный храм Московского Кремля, расположенный на Соборной площади, входит в Государственный историко-культурный музей-заповедник «Московский Кремль».Собор является древнейшим полностью сохранившимся зданием Москвы, а также самым ранним из итальянских сооружений в Кремле. Построен в 1475—1479 годах под руководством итальянского зодчего Аристотеля Фиораванти. Был главным кафедральным собором России вплоть до 1917 года. Является усыпальницей всех московских патриархов первого патриаршего периода, кроме Никона и Игнатия.
+2022-11-02 17:51:03 INFO  - class view.NearView: Успенская звонница for xid R1359278 has description: Успе́нский собо́р — православный храм Московского Кремля, расположенный на Соборной площади, входит в Государственный историко-культурный музей-заповедник «Московский Кремль».Собор является древнейшим полностью сохранившимся зданием Москвы, а также самым ранним из итальянских сооружений в Кремле. Построен в 1475—1479 годах под руководством итальянского зодчего Аристотеля Фиораванти. Был главным кафедральным собором России вплоть до 1917 года. Является усыпальницей всех московских патриархов первого патриаршего периода, кроме Никона и Игнатия.
+2022-11-02 20:42:40 INFO  - Starting app...
+2022-11-02 20:42:44 INFO  - class view.SearchView: search: moscow
+2022-11-02 20:42:45 INFO  - class view.SearchView: show locations...
+2022-11-02 20:42:45 INFO  - class view.LocationView: country: Russia
+2022-11-02 20:42:45 INFO  - class view.LocationView: city: no info
+2022-11-02 20:42:45 INFO  - class view.LocationView: name: Moscow
+2022-11-02 20:42:45 INFO  - class view.LocationView: country: United States
+2022-11-02 20:42:45 INFO  - class view.LocationView: city: no info
+2022-11-02 20:42:45 INFO  - class view.LocationView: name: Moscow
+2022-11-02 20:42:45 INFO  - class view.LocationView: country: Russia
+2022-11-02 20:42:45 INFO  - class view.LocationView: city: no info
+2022-11-02 20:42:45 INFO  - class view.LocationView: name: Moscow
+2022-11-02 20:42:45 INFO  - class view.LocationView: country: United States
+2022-11-02 20:42:45 INFO  - class view.LocationView: city: no info
+2022-11-02 20:42:45 INFO  - class view.LocationView: name: Moscow
+2022-11-02 20:42:45 INFO  - class view.LocationView: country: United States
+2022-11-02 20:42:45 INFO  - class view.LocationView: city: no info
+2022-11-02 20:42:45 INFO  - class view.LocationView: name: Moscow Township
+2022-11-02 20:42:47 INFO  - class view.SearchView: show weather...
+2022-11-02 20:42:47 INFO  - class view.SearchView: temperature +1
+2022-11-02 20:42:47 INFO  - class view.SearchView: show places...
+2022-11-02 20:42:47 INFO  - class view.NearView: Грановитая палата for xid R7679578 has description: Гранови́тая пала́та — памятник архитектуры в Московском Кремле, одно из старейших гражданских зданий Москвы. Построена в 1487—1491 годах по указу Ивана III итальянскими архитекторами Марко Руффо и Пьетро Антонио Солари. Постройка использовалась для проведения торжественных обедов, заседаний и церемониальных приёмов при венчании на царство.
+2022-11-02 20:42:47 INFO  - class view.NearView: Красное крыльцо for xid R8011729 has description: Кра́сное крыльцо́ находится в Московском Кремле у южной стороны Грановитой палаты. Название закрепилось с середины XVII века.Красное крыльцо представляет собой парадный вход в Святые сени и в зал второго этажа Грановитой палаты. Наружное открытое крыльцо ориентировано на Соборную площадь. Крыльцо начинается двумя белокаменными арками, установленными на невысокий ступенчатый цоколь. Они сходятся под прямым углом и декорированы навершиями с фигурами львов. От арок на второй этаж ведёт широкая трёхмаршевая лестница.
+2022-11-02 20:42:47 INFO  - class view.NearView: Церковь Иоанна Лествичника с колокольней Ивана Великого for xid R1359281 has description: Колоко́льня Ива́на Вели́кого (вариант названия — Ива́н Вели́кий; также иногда именуется по названию основного храма — це́рковь Иоа́нна Ле́ствичника) — храм-колокольня в составе архитектурного ансамбля Соборной площади Московского Кремля. Построена в 1505—1509 годах по проекту итальянского архитектора Бона Фрязина, в период до 1815 года неоднократно достраивалась, расширялась и перестраивалась. В основании заложен храм святого преподобного Иоанна Лествичника.
+2022-11-02 20:42:47 INFO  - class view.NearView: Архангельский собор for xid R1359243 has description: Собо́р свято́го Архистрати́га Михаи́ла в Кремле́ (Арха́нгельский собо́р) — православный храм, расположенный на Соборной площади Московского Кремля. Был построен в 1508 году по проекту архитектора Алевиза Нового. Входит в Государственный историко-культурный музей-заповедник «Московский Кремль».
+2022-11-02 20:42:47 INFO  - class view.NearView: Благовещенский собор for xid R1359251 has description: Благове́щенский собо́р — православный храм Московского Кремля в честь Благовещения Пресвятой Богородицы, расположенный на Соборной площади в Москве. Был построен в 1489 году под руководством псковских мастеров Кривцова и Мышкина.
+2022-11-02 20:42:48 INFO  - class view.NearView: Спасо-Преображенский монастырь на бору for xid Q28667140 has description: Спасо-Преображенский монастырь на бору — самый старый монастырь Московского Кремля, был учреждён первым из пяти монастырей Московского Кремля. Монастырь был мужским и непрерывно функционировал с 1300 по 1490 год, монашеские кельи занимали частично первый этаж великокняжеского дворца. Центральный собор монастыря существовал с 1272 по 1 мая 1933 года, после разборки в 1847 году церкви Рождества Иоанна Предтечи в Кремле собор монастыря был самым старым храмом Москвы.На месте монастыря «по преданию, стояла в чаще бора низкая хижина, в коей спасался отшельник Букал»:8.
+2022-11-02 20:42:48 INFO  - class view.NearView: Успенская звонница for xid R1359278 has description: Успе́нский собо́р — православный храм Московского Кремля, расположенный на Соборной площади, входит в Государственный историко-культурный музей-заповедник «Московский Кремль».Собор является древнейшим полностью сохранившимся зданием Москвы, а также самым ранним из итальянских сооружений в Кремле. Построен в 1475—1479 годах под руководством итальянского зодчего Аристотеля Фиораванти. Был главным кафедральным собором России вплоть до 1917 года. Является усыпальницей всех московских патриархов первого патриаршего периода, кроме Никона и Игнатия.
+2022-11-02 20:42:49 INFO  - class view.SearchView: show places...
+2022-11-02 20:42:49 INFO  - class view.NearView: Almon Asbury Lieuallen House for xid Q4733872 has description: The Almon Asbury Lieuallen House was added to the National Register of Historic Places in 1978. Located at 101 S. Almon St. in Moscow, Idaho in Latah County the house was built in 1884. The structure has a mansard roof and two-story bays on either side of the entrance. The structure originally had a smaller covered porch, and the bays were more visible than at present. A small railed balcony atop the porch was accessible by a door on the second floor. That door has been replaced by a window, and the porch expanded to cover the entire east side of the facade. Additional dormer windows have been added on the third floor to provide additional lighting and ventilation for the top floor. The structure has always been used as a residence, first as a family home, then as apartments. It is currently used as multi-family apartments.
+2022-11-02 20:42:49 INFO  - class view.SearchView: show weather...
+2022-11-02 20:42:49 INFO  - class view.SearchView: temperature +0
+2022-11-02 20:42:49 INFO  - class view.NearView: Moscow City Hall for xid Q6915476 has description: The City Hall of Moscow, Idaho, formerly known as the Moscow Post Office and Courthouse and Moscow Federal Building, was built 110 years ago in 1911. Its red brick with ivory terracotta trim reflects Late Victorian and Eclectic architecture.
+2022-11-02 20:42:49 INFO  - class view.NearView: McConnell–McGuire Building for xid Q55887900 has description: The McConnell–McGuire Building is a historic building in Moscow, Idaho. It was built in 1891 for the McConnell-McGuire department store. One of its founders, William J. McConnell, served as the third governor of Idaho from 1893 to 1897.The building was designed by architects W. J. Lewis and M. D. Ogilbee. It has been listed on the National Register of Historic Places since February 7, 1978.
+2022-11-02 20:42:49 INFO  - class view.NearView: Skattaboe Block for xid Q55887888 has description: The Skattaboe Block is a historic building in Moscow, Idaho. It was built by Taylor & Lauder for the Moscow Telephone and Telegraph Company in 1892. It was owned by the Inland Telephone Company from 1925 to 1952, when it was purchased by the General Telephone Company.The building was designed in the Romanesque Revival architectural style. Due to a fire in 1966 the building was renovated in 1978, but the original design of the building has been preserved. It has been listed on the National Register of Historic Places since May 22, 1978.
+2022-11-02 20:42:49 INFO  - class view.NearView: Christ Church for xid Q5108753 has description: Christ Church is a Reformed and evangelical church in Moscow, Idaho, pastored by Douglas Wilson, and a member of the Communion of Reformed Evangelical Churches. The congregation is known for conservative ideology and a number of institutional projects, including a publishing operation (Canon Press), a magazine (Credenda/Agenda), a three-year ministerial training program (Greyfriars Hall), a private accredited college (New Saint Andrews), and a campus ministry (Collegiate Reformed Fellowship). The church is estimated to have between 900 and 2,000 members.
+2022-11-02 20:42:51 INFO  - class view.SearchView: show weather...
+2022-11-02 20:42:51 INFO  - class view.SearchView: temperature +13
+2022-11-02 20:42:52 INFO  - class view.SearchView: show weather...
+2022-11-02 20:42:52 INFO  - class view.SearchView: temperature +2
+2022-11-02 20:42:52 INFO  - class view.SearchView: show places...
+2022-11-02 20:42:53 INFO  - class view.SearchView: show weather...
+2022-11-02 20:42:53 INFO  - class view.SearchView: show places...
+2022-11-02 20:42:53 INFO  - class view.SearchView: temperature +0
+2022-11-02 20:42:53 INFO  - class view.NearView: Almon Asbury Lieuallen House for xid Q4733872 has description: The Almon Asbury Lieuallen House was added to the National Register of Historic Places in 1978. Located at 101 S. Almon St. in Moscow, Idaho in Latah County the house was built in 1884. The structure has a mansard roof and two-story bays on either side of the entrance. The structure originally had a smaller covered porch, and the bays were more visible than at present. A small railed balcony atop the porch was accessible by a door on the second floor. That door has been replaced by a window, and the porch expanded to cover the entire east side of the facade. Additional dormer windows have been added on the third floor to provide additional lighting and ventilation for the top floor. The structure has always been used as a residence, first as a family home, then as apartments. It is currently used as multi-family apartments.
+2022-11-02 20:42:53 INFO  - class view.NearView: Moscow City Hall for xid Q6915476 has description: The City Hall of Moscow, Idaho, formerly known as the Moscow Post Office and Courthouse and Moscow Federal Building, was built 110 years ago in 1911. Its red brick with ivory terracotta trim reflects Late Victorian and Eclectic architecture.
+2022-11-02 20:42:53 INFO  - class view.NearView: Skattaboe Block for xid Q55887888 has description: The Skattaboe Block is a historic building in Moscow, Idaho. It was built by Taylor & Lauder for the Moscow Telephone and Telegraph Company in 1892. It was owned by the Inland Telephone Company from 1925 to 1952, when it was purchased by the General Telephone Company.The building was designed in the Romanesque Revival architectural style. Due to a fire in 1966 the building was renovated in 1978, but the original design of the building has been preserved. It has been listed on the National Register of Historic Places since May 22, 1978.
+2022-11-02 20:42:53 INFO  - class view.NearView: McConnell–McGuire Building for xid Q55887900 has description: The McConnell–McGuire Building is a historic building in Moscow, Idaho. It was built in 1891 for the McConnell-McGuire department store. One of its founders, William J. McConnell, served as the third governor of Idaho from 1893 to 1897.The building was designed by architects W. J. Lewis and M. D. Ogilbee. It has been listed on the National Register of Historic Places since February 7, 1978.
+2022-11-02 20:42:53 INFO  - class view.NearView: Christ Church for xid Q5108753 has description: Christ Church is a Reformed and evangelical church in Moscow, Idaho, pastored by Douglas Wilson, and a member of the Communion of Reformed Evangelical Churches. The congregation is known for conservative ideology and a number of institutional projects, including a publishing operation (Canon Press), a magazine (Credenda/Agenda), a three-year ministerial training program (Greyfriars Hall), a private accredited college (New Saint Andrews), and a campus ministry (Collegiate Reformed Fellowship). The church is estimated to have between 900 and 2,000 members.
+2022-11-02 20:42:55 INFO  - class view.SearchView: show places...
+2022-11-02 20:42:55 INFO  - class view.SearchView: show weather...
+2022-11-02 20:42:55 INFO  - class view.SearchView: temperature +7
+2022-11-02 20:42:57 INFO  - class view.SearchView: show weather...
+2022-11-02 20:42:57 INFO  - class view.SearchView: temperature +13
+2022-11-02 20:42:57 INFO  - class view.SearchView: show places...
+2022-11-02 20:42:57 INFO  - class view.NearView: Bingham Free Meetinghouse for xid Q4914197 has description: The Bingham Free Meetinghouse is a historic church on South Main Street (U.S. 201) in Bingham, Maine. Built in 1835-36, this wood frame structure was the first church to be built north of Caratunk Falls in northwestern Maine. The building is architecturally transitional, exhibiting both Federal and Gothic Revival elements. It was listed on the National Register of Historic Places in 1976.
+2022-11-02 20:42:57 INFO  - class view.NearView: Baker Mountain for xid N358211150 has description: Bukid ang Baker Mountain sa Tinipong Bansa. Nahimutang ni sa kondado sa Somerset County ug estado sa Maine, sa sidlakang bahin sa nasod, 900 km sa amihanan-sidlakan sa Washington, D.C. 240 metros ibabaw sa dagat kahaboga ang nahimutangan sa Baker Mountain, o 80 ka metros sa ibabaw sa naglibot nga tereyn. Mga 0.73 ka kilometro ang gilapdon sa tiilan niini. Baker Mountain nga nahimutang sa lanaw sa Wyman Lake ang ulohan sa nasod.
+2022-11-02 20:42:57 INFO  - class view.NearView: Mahoney Hill for xid N358221798 has description: Bukid ang Mahoney Hill sa Tinipong Bansa. Ang Mahoney Hill nahimutang sa kondado sa Somerset County ug estado sa Maine, sa sidlakang bahin sa nasod, 900 km sa amihanan-sidlakan sa ulohang dakbayan Washington, D.C. 375 metros ibabaw sa dagat kahaboga ang nahimutangan sa Mahoney Hill.
+2022-11-02 20:42:58 INFO  - class view.SearchView: show weather...
+2022-11-02 20:42:58 INFO  - class view.SearchView: show places...
+2022-11-02 20:42:58 INFO  - class view.SearchView: temperature +7
+2022-11-02 21:06:49 INFO  - Starting app...
+2022-11-02 21:06:54 INFO  - class view.SearchView: search: moscow
+2022-11-02 21:06:55 INFO  - class view.SearchView: show locations...
+2022-11-02 21:06:55 INFO  - class view.LocationView: country: Russia
+2022-11-02 21:06:55 INFO  - class view.LocationView: city: no info
+2022-11-02 21:06:55 INFO  - class view.LocationView: name: Moscow
+2022-11-02 21:06:55 INFO  - class view.LocationView: country: United States
+2022-11-02 21:06:55 INFO  - class view.LocationView: city: no info
+2022-11-02 21:06:55 INFO  - class view.LocationView: name: Moscow
+2022-11-02 21:06:55 INFO  - class view.LocationView: country: Russia
+2022-11-02 21:06:55 INFO  - class view.LocationView: city: no info
+2022-11-02 21:06:55 INFO  - class view.LocationView: name: Moscow
+2022-11-02 21:06:55 INFO  - class view.LocationView: country: United States
+2022-11-02 21:06:55 INFO  - class view.LocationView: city: no info
+2022-11-02 21:06:55 INFO  - class view.LocationView: name: Moscow
+2022-11-02 21:06:55 INFO  - class view.LocationView: country: United States
+2022-11-02 21:06:55 INFO  - class view.LocationView: city: no info
+2022-11-02 21:06:55 INFO  - class view.LocationView: name: Moscow Township
+2022-11-02 21:06:56 INFO  - class view.SearchView: show weather...
+2022-11-02 21:06:56 INFO  - class view.SearchView: temperature +1
+2022-11-02 21:06:57 INFO  - class view.SearchView: show places...
+2022-11-02 21:06:57 INFO  - class view.NearView: Красное крыльцо for xid R8011729 has description: Кра́сное крыльцо́ находится в Московском Кремле у южной стороны Грановитой палаты. Название закрепилось с середины XVII века.Красное крыльцо представляет собой парадный вход в Святые сени и в зал второго этажа Грановитой палаты. Наружное открытое крыльцо ориентировано на Соборную площадь. Крыльцо начинается двумя белокаменными арками, установленными на невысокий ступенчатый цоколь. Они сходятся под прямым углом и декорированы навершиями с фигурами львов. От арок на второй этаж ведёт широкая трёхмаршевая лестница.
+2022-11-02 21:06:57 INFO  - class view.NearView: Грановитая палата for xid R7679578 has description: Гранови́тая пала́та — памятник архитектуры в Московском Кремле, одно из старейших гражданских зданий Москвы. Построена в 1487—1491 годах по указу Ивана III итальянскими архитекторами Марко Руффо и Пьетро Антонио Солари. Постройка использовалась для проведения торжественных обедов, заседаний и церемониальных приёмов при венчании на царство.
+2022-11-02 21:06:57 INFO  - class view.NearView: Архангельский собор for xid R1359243 has description: Собо́р свято́го Архистрати́га Михаи́ла в Кремле́ (Арха́нгельский собо́р) — православный храм, расположенный на Соборной площади Московского Кремля. Был построен в 1508 году по проекту архитектора Алевиза Нового. Входит в Государственный историко-культурный музей-заповедник «Московский Кремль».
+2022-11-02 21:06:57 INFO  - class view.NearView: Церковь Иоанна Лествичника с колокольней Ивана Великого for xid R1359281 has description: Колоко́льня Ива́на Вели́кого (вариант названия — Ива́н Вели́кий; также иногда именуется по названию основного храма — це́рковь Иоа́нна Ле́ствичника) — храм-колокольня в составе архитектурного ансамбля Соборной площади Московского Кремля. Построена в 1505—1509 годах по проекту итальянского архитектора Бона Фрязина, в период до 1815 года неоднократно достраивалась, расширялась и перестраивалась. В основании заложен храм святого преподобного Иоанна Лествичника.
+2022-11-02 21:06:57 INFO  - class view.NearView: Благовещенский собор for xid R1359251 has description: Благове́щенский собо́р — православный храм Московского Кремля в честь Благовещения Пресвятой Богородицы, расположенный на Соборной площади в Москве. Был построен в 1489 году под руководством псковских мастеров Кривцова и Мышкина.
+2022-11-02 21:06:57 INFO  - class view.NearView: Московский Кремль (музей-заповедник) for xid Q4304009 has description: Музе́и Моско́вского Кремля́ (ММК, Государственный историко-культурный музей-заповедник «Московский Кремль») — государственное музейное учреждение, расположенное в Московском Кремле. Состоит из семи музеев: Оружейной палаты, Успенского, Архангельского и Благовещенского соборов, Патриарших палат, церкви Ризоположения и колокольни Ивана Великого.Датой основания считается 10 марта 1806 года, когда Александр I выпустил указ о формировании музея Оружейной палаты. В современном виде учреждение образовалось в 1991-м на базе Государственных музеев Московского Кремля.В 2018 году Музеи заняли 18-е место в числе самых посещаемых музеев мира — ежегодно в них бывают около 2,86 миллиона человек.
+2022-11-02 21:06:57 INFO  - class view.NearView: Успенский собор for xid R3028585 has description: Успе́нский собо́р — православный храм Московского Кремля, расположенный на Соборной площади, входит в Государственный историко-культурный музей-заповедник «Московский Кремль».Собор является древнейшим полностью сохранившимся зданием Москвы, а также самым ранним из итальянских сооружений в Кремле. Построен в 1475—1479 годах под руководством итальянского зодчего Аристотеля Фиораванти. Был главным кафедральным собором России вплоть до 1917 года. Является усыпальницей всех московских патриархов первого патриаршего периода, кроме Никона и Игнатия.
+2022-11-02 21:06:57 INFO  - class view.NearView: Успенская звонница for xid R1359278 has description: Успе́нский собо́р — православный храм Московского Кремля, расположенный на Соборной площади, входит в Государственный историко-культурный музей-заповедник «Московский Кремль».Собор является древнейшим полностью сохранившимся зданием Москвы, а также самым ранним из итальянских сооружений в Кремле. Построен в 1475—1479 годах под руководством итальянского зодчего Аристотеля Фиораванти. Был главным кафедральным собором России вплоть до 1917 года. Является усыпальницей всех московских патриархов первого патриаршего периода, кроме Никона и Игнатия.
+2022-11-02 21:07:05 INFO  - class view.SearchView: search: fdryftgyhujioklp[;
+2022-11-02 21:07:05 INFO  - class view.SearchView: show locations...
+2022-11-02 21:07:05 INFO  - class view.SearchView: no location found

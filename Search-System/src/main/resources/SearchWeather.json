@@ -1,0 +1,10 @@
+{
+  "baseURL": "https://api.openweathermap.org/data/2.5/weather",
+  "params":
+  {
+    "appid": "<INSERT_YOUR_KEY>"
+  },
+  "latKeyName": "lat",
+  "lngKeyName": "lon",
+  "weatherKeyName": "main"
+}

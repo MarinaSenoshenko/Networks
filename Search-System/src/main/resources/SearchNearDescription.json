@@ -1,0 +1,9 @@
+{
+  "baseURL": "https://api.opentripmap.com/0.1/ru/places/xid/",
+  "params":
+  {
+    "apikey": "<INSERT_YOUR_KEY>"
+  },
+  "infoKeyName": "wikipedia_extracts",
+  "descriptionKeyName": "text"
+}
